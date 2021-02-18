@@ -20,3 +20,6 @@
     #### This command will delete all the data.
 5. python manage.py runserver
     #### this command will start the server.
+    
+## Pythonanywhere link:
+http://asahu.pythonanywhere.com/api/v1/useractivity/
