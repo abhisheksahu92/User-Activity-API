@@ -18,6 +18,6 @@ from django.urls import path
 from UserActivity.views import useractivity
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    # path('admin/', admin.site.urls),
     path('api/v1/useractivity/',useractivity,name='useractivity'),
 ]
