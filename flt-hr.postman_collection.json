@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "ba7cd062-2bec-43cc-a669-d707f3c49f0c",
+		"name": "flt-hr",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "User Activities List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/api/useractivity/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"useractivity",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
