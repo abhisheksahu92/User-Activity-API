@@ -1,5 +1,6 @@
 # Rest Api of User and Their Activity Period
-    This project helps the user to get the list of the users and their activites. You can also populate and delete the dummy data of users and their activity.
+    This project helps the user to get the list of the users and their activites. 
+    You can also populate and delete the dummy data of users and their activity.
 
 ## Steps to follow:
 1. Navigate to ftl_hr directory.
